@@ -1,9 +1,15 @@
 --- 
-title: "YOUR TITLE HERE"
-author: "YOUR NAME HERE"
-date: "`r Sys.Date()`"
+title: "Modul Praktikum Pelatihan Spasial"
+author: "Anik Djuraidah, Rahma Anisa, Gerry Alfa Dito | Departemen Statistika, FMIPA - IPB"
+date: "17 dan 19 Maret 2021"
 site: bookdown::bookdown_site
 ---
 
-# Down the rabbit-hole
+# Pengantar Analisis Spasial dengan R Software
+
+# Pemodelan Dependensi Spasial
+
+# Pemodelan Regresi Terboboti Geografis
+
+# Pemodelan Data Panel Spasial
 
